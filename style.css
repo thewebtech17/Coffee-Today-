@@ -11,6 +11,30 @@
     text-decoration: none;
 
 }
+/* For WebKit browsers */
+::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #333;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #666;
+  }
+  
+  /* For Firefox */
+  html {
+    scrollbar-width: thin;
+    scrollbar-color: #666 #333;
+  }
+  
+  body {
+    scrollbar-width: thin;
+    scrollbar-color: #666 #333;
+  }
+  
 
 section {
     padding: 50px 100px;
