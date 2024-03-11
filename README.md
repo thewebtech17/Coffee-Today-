@@ -15,7 +15,7 @@
 
 You can also clone & create this repo locally with the following command:
 
-[Clone Repo](https://coffee-today.netlify.app/) 
+[Clone Repo](https://github.com/thewebtech17/Coffee-Today-) 
 
 ---
 
