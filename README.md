@@ -1,6 +1,6 @@
-# Zomato UI Clone
+# Coffee Today!!
 
-![Zomato](https://github.com/thewebtech17/Coffee-Today-/blob/main/Coffee-today-readme-picture.jpg)
+![Coffee Today!](https://github.com/thewebtech17/Coffee-Today-/blob/main/ct-readme.jpg)
 
 ---
 
